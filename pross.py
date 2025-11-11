@@ -27,7 +27,8 @@ def show_profile():
         "Name": "Saim Abbas",
         "Age": "20",
         "Religion": "Muslim",
-        "Education": "Undergraduate (Software Engineering)"
+        "Education": "Undergraduate (Software Engineering)",
+        "Skill's": "Python,SQL,github",
     }
 
     # Display profile info
