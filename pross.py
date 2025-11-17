@@ -29,6 +29,7 @@ def show_profile():
         "Religion": "Muslim",
         "Education": "Undergraduate (Software Engineering)",
         "Skill's": "Python,SQL,github",
+        "status": "bachelor",
     }
 
     # Display profile info
