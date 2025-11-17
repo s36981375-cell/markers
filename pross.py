@@ -30,7 +30,7 @@ def show_profile():
         "Education": "Undergraduate (Software Engineering)",
         "Skill's": "Python,SQL,github",
         "status": "bachelor",
-        "Technology": "Peak",
+        "Technology": "Peaks",
     }
 
     # Display profile info
